@@ -1,0 +1,15 @@
+# Ignorar archivos de entorno
+.env
+
+# Ignorar claves privadas
+*.key
+
+# Node.js
+node_modules/
+
+# Logs
+*.log
+
+# Build
+dist/
+build/.env
